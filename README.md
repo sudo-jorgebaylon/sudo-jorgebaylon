@@ -2,14 +2,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgebaylon/)
 
-<h2>about me</h2>
+<h2>Sobre mi</h2>
 <!-- <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/> -->
 
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 - 💻 Frontend & some Backend developer 
-- 🌱 Software engineer student
 - 🔭 Learning DevOps
+- 🧑‍🏫​ Autodidacta
 
 - <h4>Languages</h4>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,8 +53,3 @@
 </br>
 </br>
 
-<h2>⚡ My GitHub Statistics</h2>
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vrivas99&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrivas99&layout=compact&langs_count=7&theme=light"/>
-</div>
