@@ -3,53 +3,32 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgebaylon/)
 
 <h2>Sobre mi</h2>
-<!-- <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/> -->
 
-<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
+- 💻 Desarrollador web (Fundador de [Webtice](https://webtice.com))
+- 🧑‍🏫 Autodidacta
+- 🔭 Aprendiendo sobre sistemas, redes y Linux a fondo
+- 🐧 Uso Arch Linux / Bazzite como daily driver
 
-- 💻 Frontend & some Backend developer 
-- 🔭 Learning DevOps
-- 🧑‍🏫​ Autodidacta
+<h4>Lenguajes</h4>
 
-- <h4>Languages</h4>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- <h4>Framework, Libraries & Platforms</h4>
+<h4>Herramientas & Plataformas</h4>
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-- <h4>Designing tools</h4>
+<h4>Aprendiendo actualmente</h4>
 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-- <h4>Learning</h4>
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-<img align="left" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
+![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4B0082?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
