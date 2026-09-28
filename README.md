@@ -32,3 +32,13 @@
 ![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4B0082?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
+
+<img align="left" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
